@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conconthecoder
-- 👀 I’m interested in guitar, basketball, and coding (duh)
-- 🌱 I’m currently learning python and java yay
+- 👀 I’m interested in guitar, basketball, crypto, and coding (duh)
+- 🌱 I'm learning fullstack right now #react
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
 
