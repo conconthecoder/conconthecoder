@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @conconthecoder
-- 👀 I’m interested in guitar, basketball, crypto, and coding (duh)
-- 🌱 I'm learning fullstack right now #react
+- 👀 I’m interested in guitar, basketball, crypto, thrifting, and coding (duh)
+- 🌱 I'm learning fullstack right now #react #next #tailwind
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
+
 
 <!---
 conconthecoder/conconthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
